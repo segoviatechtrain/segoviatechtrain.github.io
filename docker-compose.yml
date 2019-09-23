@@ -1,0 +1,16 @@
+version: '2'
+
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: /bin/bash
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+      - jekyll_bundle:/usr/local/bundle
+      - jekyll_gems:/usr/gem
+
+volumes:
+  jekyll_bundle:
+  jekyll_gems:
