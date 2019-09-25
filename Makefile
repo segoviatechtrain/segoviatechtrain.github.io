@@ -1,6 +1,6 @@
 
-
-JECKYLL_CMD := docker-compose run --rm --service-ports jekyll jekyll
+SERVER_CMD := docker-compose up
+JECKYLL_CMD := docker-compose run --rm jekyll jekyll
 BUNDLER_CMD := docker-compose run --rm jekyll bundle
 
 run:
@@ -10,7 +10,7 @@ build:
 	$(JECKYLL_CMD) build
 
 serve:
-	$(JECKYLL_CMD) serve --watch --force_polling --verbose
+	$(SERVER_CMD)
 
 bundle-install:
 	$(BUNDLER_CMD) install
