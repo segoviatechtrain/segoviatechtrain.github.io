@@ -6,9 +6,7 @@ author: tinproject
 layout: post
 ---
 
+### Estamos aún pendientes de ver que charlas hay para este mes. 
+
 Nuestra próxima reunión está planificada para el **viernes 15 de Noviembre**.
-
-Estamos aún pendientes de ver que charlas hay para este mes. 
-
-
 Si quieres postularte para dar una charla tienes mas información en: [https://github.com/segoviatechtrain/events]() 
