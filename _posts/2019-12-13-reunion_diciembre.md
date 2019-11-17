@@ -8,6 +8,6 @@ layout: post
 
 ### Estamos aún pendientes de ver que hacemos en dieciembre
 
-Todavía no tenemos claro cuando vamos a hacer el evento de Diciembre, ni en que va a consistit.
+Todavía no tenemos claro cuando vamos a hacer el evento de Diciembre, ni en que va a consistir.
 
 Si quieres postularte para dar una charla tienes mas información en: [https://github.com/segoviatechtrain/events]() 
