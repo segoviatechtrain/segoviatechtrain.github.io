@@ -1,13 +1,13 @@
 ---
 id: 201911
 title: Evento Diciembre 2019
-date: 2019-12-13T19:30:00+02:00
+date: 2019-12-13T20:00:00+01:00
 author: tinproject
 layout: post
 ---
 
-### Estamos aún pendientes de ver que hacemos en dieciembre
+### Encuentro en Diciembre
 
-Todavía no tenemos claro cuando vamos a hacer el evento de Diciembre, ni en que va a consistir.
+Este mes de Diciembre, por cenas de navidad y exámenes no tendremos charlas. 
 
-Si quieres postularte para dar una charla tienes mas información en: [https://github.com/segoviatechtrain/events]() 
+En su lugar quedaremos a tomar unas cañas, o lo que os apetezca, el próximo viernes 13 de Diciembre a las 20:00 en el Bar España (enfrente de la UVa)

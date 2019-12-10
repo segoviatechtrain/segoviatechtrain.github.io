@@ -1,7 +1,7 @@
 ---
 id: 201911
 title: Evento Noviembre 2019
-date: 2019-11-15T19:30:00+02:00
+date: 2019-11-15T19:30:00+01:00
 author: tinproject
 layout: post
 ---
