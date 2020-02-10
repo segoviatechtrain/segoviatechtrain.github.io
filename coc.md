@@ -1,5 +1,5 @@
 ---
-title: Código de Conducta de SegoviaTechTrain
+title: Código de Conducta de Segovia Tech Train
 layout: coc
 ---
 
