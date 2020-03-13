@@ -1,6 +1,6 @@
 ---
 id: 202003
-title: Evento marzo 2020
+title: Evento Marzo 2020
 date: 2020-03-27T19:30:00+01:00
 author: ganger85
 layout: post

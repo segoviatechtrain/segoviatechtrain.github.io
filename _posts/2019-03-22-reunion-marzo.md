@@ -8,6 +8,7 @@ layout: post
 
 ### **Ayudate en tu desarrollo con Docker.** 
 Breve y básica introducción a docker / docker-compose y de cómo podemos usar esas herramientas para ayudarnos en el desarrollo de nuestras aplicaciones.
+[https://gist.github.com/tinproject/84b2da34173626ec59642d848cba65ef]()
 
 #### **Por:** Agustín Herranz Cecilia
 Ingeniero Técnico de Telecomunicación, tras pasar una larga temporada enredando con postes y cabes de fibra óptica, volvio al mundo del software. Apasionado de Python y del Continuous Delivery, actualmente trabaja como DevOps Engineer, tratando de hacer las cosas más simples y sencillas.

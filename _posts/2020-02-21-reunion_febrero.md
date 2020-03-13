@@ -1,6 +1,6 @@
 ---
 id: 202002
-title: Evento febrero 2020
+title: Evento Febrero 2020
 date: 2020-02-21T19:30:00+01:00
 author: ganger85
 layout: post
@@ -21,6 +21,7 @@ Muchos de los que empiezan a aprender sobre este tema, en algún momento han cre
 ¿Es posible engañar estos algoritmos de clasificación? ¿Son infalibles?
 
 En esta charla realizaremos ataques adversos sobre una red neuronal y veremos como es posible engañarla para que clasifique de manera totalmente distinta dos imágenes modificando sutilmente los píxeles de esta, de tal forma que a la vista humana parezca la misma imagen pero para la red sea una imágen totalmente distinta.
+[https://github.com/josemanusr/AtaquesAdversariosTechTrain]() 
 
 #### **Por:** José Manuel Simón Ramos
 Estudiante de último curso de Ingeniería Informática de Servicios y Aplicaciones en el Campus Universitario María Zambrano (Segovia). Amante de la informática, la tecnología y todo lo relacionado con el Big Data y el Machine Learning.
