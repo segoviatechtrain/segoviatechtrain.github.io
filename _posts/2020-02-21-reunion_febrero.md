@@ -6,8 +6,6 @@ author: ganger85
 layout: post
 ---
 
-En este evento podremos disfrutar de las siguientes charlas.
-
 ### **Scrum en 25 minutos** 
 En esta charla explicaremos el framework de Scrum en su totalidad en 25 minutos.
 

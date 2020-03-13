@@ -6,8 +6,6 @@ author: tinproject
 layout: post
 ---
 
-En este evento podremos disfrutar de las siguientes charlas.
-
 ### **Arquitecturas reactivas** 
 Desde que el Domain Driven Design es tendencia en la industria y con el reactive manifesto como base, en muchas partes de nuestros sistemas estamos implementando servicios “reactivos”, comunicación asíncrona, …, con la complejidad que eso añade en nuestros entornos, ¿Cuales son sus ventajas?¿Cuál es el precio a pagar?
 El objetivo de esta charla es mostrar las ventajas e inconvenientes de las arquitecturas basadas en eventos.

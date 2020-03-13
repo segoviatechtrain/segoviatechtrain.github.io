@@ -1694,3 +1694,62 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
         padding-top: 10px;
     }
 }
+
+
+.panel {
+	margin-bottom:4px;
+}
+/*.panel-title{margin:10px 0;}*/
+.panel-heading {
+	padding:10px;
+	display: inline-block;
+	width: 100%;
+	background-color: #999;
+	border: 1px solid #999;
+	position: relative;
+	cursor: pointer;
+}
+.panel-heading a{text-decoration: none;color:white;vertical-align: bottom;}
+.panel-heading a:after {
+    content: "+";
+    position: absolute;
+    right: 15px;
+    font-size: 14px;
+    font-weight: 300;
+    top: 50%;
+    line-height: 1;
+    margin-top: -7px;
+}
+
+.panel-heading:hover, .panel-heading-hover {background-color: #3d78d8;border: 1px solid #3d78d8;}
+.panel-heading-hover a:after {
+    content: "-";
+    position: absolute;
+    right: 15px;
+    font-size: 14px;
+    font-weight: 300;
+    top: 50%;
+    line-height: 1;
+    margin-top: -7px;
+}
+.panel-heading-question{
+	    vertical-align: middle;
+    padding-right: 10px;
+}
+.panel-body{
+	border: 1px solid #f0f0f0;
+	border-top: 0;
+	background:#fafafa;
+	padding: 0 10px;
+	width: 100%;
+}
+
+.hidden-element {
+	-moz-transition: height .3s;
+	-ms-transition: height .3s;
+	-o-transition: height .3s;
+	-webkit-transition: height .3s;
+	transition: height .3s;
+	height: 0;
+	overflow: hidden;
+}

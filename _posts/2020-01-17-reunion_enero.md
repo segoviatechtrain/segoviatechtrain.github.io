@@ -6,14 +6,15 @@ author: ganger85
 layout: post
 ---
 
-En este evento podremos disfrutar de las siguientes charlas.
+### **TDD Dojo** 
+El objetivo de esta charla/taller, es introducirnos en el mundo de la practica deliberada de la mano de un ejercicio denominado Kata y poniendo en practica TDD, como metodología de trabajo.
 
-### **Scrum en 25 minutos** 
-En esta charla explicaremos el framework de Scrum en su totalidad en 25 minutos.
+Fizz Buzz es la kata elegida y la llevaremos a cabo en mob programming 
 
-#### **Por:** Luis Vidaechea
-Scrum Master | Agile Coach | Scrum trainer
-He trabajado en distintos sectores donde he podido aplicar y escalar agilidad. Aeroespacial, telecomunicaciones y bancario, en el que actualmente trabajo, concretamente como Scrum Master en BBVA a través de Entelgy.
+#### **Por:** Abel Rincón (@ganger85)
+Desarrollador de sistemas distribuidos, Big Data, Fast Data, Web, en fin... de un montón de cosas ;-) , desde hace más de 12 años, usando principalmente Scala y Java.
+#### **Por:** Agustín Herranz Cecilia
+Ingeniero Técnico de Telecomunicación, tras pasar una larga temporada enredando con postes y cabes de fibra óptica, volvio al mundo del software. Apasionado de Python y del Continuous Delivery, actualmente trabaja como DevOps Engineer, tratando de hacer las cosas más simples y sencillas.
 
 
 ### **Introducción a Kotlin**

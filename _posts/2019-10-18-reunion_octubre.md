@@ -6,8 +6,6 @@ author: tinproject
 layout: post
 ---
 
-En este evento podremos disfrutar de las siguientes charlas.
-
 ### **Privacidad y Desarrollo Tecnológico** 
 Cada vez que alguien desarrolla software utiliza herramientas, otros programas y/o servicios, en las que se apoya o que directamente complementan aquello que está desarrollando. Las implicaciones en materia de privacidad pueden ser muy importantes en función de las opciones elegidas. Pero, ¿somos conscientes de este tipo de implicaciones, y de lo que pueden llegar a significar para los usuarios del software que estamos desarrollando?
 

@@ -6,8 +6,6 @@ author: tinproject
 layout: post
 ---
 
-En este evento podremos disfrutar de las siguientes charlas.
-
 ### **Por que debes acudir a meetups y conferencias, y no solo como asistente.** 
 ¿Todavía no conoces el mundo de los meetups y conferencias técnicas? Aprovecha y acercate a SegoviaTechTrain donde te contaré todo las ventajas que puedes obtener en tu carrera profesional, y a nivel personal, acudiendo a eventos técnicos... </clickbait>
 
