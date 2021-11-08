@@ -9,3 +9,5 @@ layout: post
 ### Estamos aún pendientes de las charlas para Diciembre
 
 Si quieres postularte para dar una charla tienes mas información en: [https://github.com/segoviatechtrain/events]() 
+
+### El retorno de Segovia Tech Train, vente a conocer a la comunidad y presentate tu también
