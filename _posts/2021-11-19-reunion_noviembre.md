@@ -12,4 +12,4 @@ Después de este parón obligado, retomamos nuestra actividad de difusión e inn
 
 Estamos gestionando el lugar de ubicación del evento (ya os informaremos cuando lo tengamos confirmado y también la fecha), su hora de inicio seria a las 19:30.
 
-El formato de esta primera sesión seria conocido con el nombre de "Ask Me Anything", donde podríamos reencontrarnos los miembros más veteranos de la comunidad y los que se han añadido recientemente.
+El formato de esta primera sesión es conocido con el nombre de "Ask Me Anything", donde podríamos reencontrarnos los miembros más veteranos de la comunidad y los que se han añadido recientemente.
