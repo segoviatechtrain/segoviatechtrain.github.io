@@ -14,10 +14,10 @@ Iván lleva 20 años trabajando en startups de diversa índole - desde la agricu
 
 
 
-### **Pendiente** 
+### **Segunda charla pendiente** 
 
 Aún estamos pendientes de completar la segunda charla. 
-Así que estás de enhorabuena, puedes proponer en el siguiente enlace: [Propuesta de charla](https://github.com/segoviatechtrain/events/issues/new?assignees=&labels=new%2C+charla&template=propuesta-de-charla.md&title=%5BPropuesta%5D+El+t%C3%ADtulo+de+tu+charla)
+Así que estás de enhorabuena, puedes proponer una en el siguiente enlace: [Propuesta de charla](https://github.com/segoviatechtrain/events/issues/new?assignees=&labels=new%2C+charla&template=propuesta-de-charla.md&title=%5BPropuesta%5D+El+t%C3%ADtulo+de+tu+charla)
 
 #### **Por:** Tú nombre puede estár aquí!
-
+y tu bio también.
